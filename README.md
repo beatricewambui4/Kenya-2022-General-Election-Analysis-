@@ -101,7 +101,6 @@ Of Kenya's roughly 47.6 million people, 22.1 million (about 46.4%) were register
 
 The 2022 election was administratively clean, with very few spoilt ballots, but participation was the weak point. The biggest opportunities for improvement lie in registering more eligible citizens and getting registered voters to turn out.
 
-*Note: The introduction cites the IEBC-recorded national turnout of 64.77%, while the dashboard figures (ballots cast ÷ registered voters) give about 62.9%. The difference reflects the data sources and calculation method used.*
 
 ## 🔍 Dashboard Features
 
